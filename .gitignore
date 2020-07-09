@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+"\346\234\272\345\231\250\345\255\246\344\271\240/"
+"\346\267\261\345\272\246\345\255\246\344\271\240/"
